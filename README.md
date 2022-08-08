@@ -18,6 +18,10 @@
 ![](Screenshots/BookList01.jpg)
 ![](Screenshots/BookList02.jpg)
 
+## Live demo
+
+https://peter1907.github.io/Awesome-Books-ES6/
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
