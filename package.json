@@ -1,0 +1,24 @@
+{
+  "name": "awesome-books-ES6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peter1907/awesome-books-ES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peter1907/awesome-books-ES6/issues"
+  },
+  "homepage": "https://github.com/Peter1907/awesome-books-ES6#readme",
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "luxon": "^3.0.1"
+  }
+}
